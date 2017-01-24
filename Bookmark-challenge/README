@@ -1,0 +1,38 @@
+User stories - Week 4.  Bookmark challenge
+
+- It shows a list of links from the database
+- New links can be added
+- Links can be tagged
+- Links can be filtered by a tag
+
+
+User Story 1:
+
+As a time-pressed user
+So that I can quickly go to web sites I regularly visit
+I would like to see a list of links on the homepage
+
+User Story 2:
+
+As a time-pressed user
+So that I can save a website
+I would like to add the site's address and title to my bookmark manager
+
+User Story 3:
+
+As a time-pressed user,
+So that I can easily categorise the bookmarks,
+I want to be able to tag my links.
+
+User Story 4:
+
+As a time-pressed user,
+So that I can arrange my tagged bookmarks,
+I want to be able to filter my bookmarks according to tags.
+
+
+Walkthrough story:
+
+As a time-pressed user
+So that I can quickly find web sites I recently bookmarked
+I would like to see links in descending chronological order
